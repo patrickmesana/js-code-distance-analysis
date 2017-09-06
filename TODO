@@ -1,0 +1,3 @@
+- add lodash and ouput a pretty version of AST
+- create sample codes that will be used to the analysis
+- create a fist distance measure based on euristics
